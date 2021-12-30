@@ -1,4 +1,5 @@
 ## Olá! Eu sou o João Pedro Lochini 
+- 📚 Graduando em Estatística
 - 👨‍💻 Procurando estágio
 - 🌱 Estudando Python e R
 - 📫 Contate=me no email: jp.lochini@gmail.com
