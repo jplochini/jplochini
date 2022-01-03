@@ -2,7 +2,7 @@
 - 📚 Graduando em Estatística
 - 👨‍💻 Procurando estágio
 - 🌱 Estudando Python e R
-- 📫 Contate=me no email: jp.lochini@gmail.com
+- 📫 Contate-me no email: jp.lochini@gmail.com
 
 <div align="center">
   <a href="https://github.com/jplochini">
