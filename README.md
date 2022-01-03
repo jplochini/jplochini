@@ -1,4 +1,4 @@
-## Olá! Eu sou o João Pedro Lochini 
+## Olá! Eu sou o João Pedro Lochini, estudante de Estatística e apaixonado por programação!
 - 📚 Graduando em Estatística
 - 👨‍💻 Procurando estágio
 - 🌱 Estudando Python e R
