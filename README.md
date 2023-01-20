@@ -1,6 +1,6 @@
 ## Olá! Eu sou o João Pedro Lochini, estudante de Estatística e apaixonado por programação!
 - 📚 Graduando em Estatística
-- 👨‍💻 Procurando estágio
+- 👨‍💻 Estagiário de Data Science
 - 🌱 Estudando Python e R
 - 📫 Contate-me no email: jp.lochini@gmail.com
 
